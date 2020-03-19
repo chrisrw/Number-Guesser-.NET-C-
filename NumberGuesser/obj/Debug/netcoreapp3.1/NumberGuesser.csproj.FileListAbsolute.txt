@@ -1,0 +1,11 @@
+C:\Users\Chris Wargo\Desktop\C# tut\NumberGuesser\NumberGuesser\bin\Debug\netcoreapp3.1\NumberGuesser.exe
+C:\Users\Chris Wargo\Desktop\C# tut\NumberGuesser\NumberGuesser\bin\Debug\netcoreapp3.1\NumberGuesser.deps.json
+C:\Users\Chris Wargo\Desktop\C# tut\NumberGuesser\NumberGuesser\bin\Debug\netcoreapp3.1\NumberGuesser.runtimeconfig.json
+C:\Users\Chris Wargo\Desktop\C# tut\NumberGuesser\NumberGuesser\bin\Debug\netcoreapp3.1\NumberGuesser.runtimeconfig.dev.json
+C:\Users\Chris Wargo\Desktop\C# tut\NumberGuesser\NumberGuesser\bin\Debug\netcoreapp3.1\NumberGuesser.dll
+C:\Users\Chris Wargo\Desktop\C# tut\NumberGuesser\NumberGuesser\bin\Debug\netcoreapp3.1\NumberGuesser.pdb
+C:\Users\Chris Wargo\Desktop\C# tut\NumberGuesser\NumberGuesser\obj\Debug\netcoreapp3.1\NumberGuesser.csprojAssemblyReference.cache
+C:\Users\Chris Wargo\Desktop\C# tut\NumberGuesser\NumberGuesser\obj\Debug\netcoreapp3.1\NumberGuesser.AssemblyInfoInputs.cache
+C:\Users\Chris Wargo\Desktop\C# tut\NumberGuesser\NumberGuesser\obj\Debug\netcoreapp3.1\NumberGuesser.AssemblyInfo.cs
+C:\Users\Chris Wargo\Desktop\C# tut\NumberGuesser\NumberGuesser\obj\Debug\netcoreapp3.1\NumberGuesser.dll
+C:\Users\Chris Wargo\Desktop\C# tut\NumberGuesser\NumberGuesser\obj\Debug\netcoreapp3.1\NumberGuesser.pdb
